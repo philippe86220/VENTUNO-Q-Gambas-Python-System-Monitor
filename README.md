@@ -341,7 +341,7 @@ No MCU communication is required.
 
 ## License
 
-MIT license
+MIT License
 
 ## Acknowledgements
 
