@@ -341,4 +341,4 @@ No MCU communication is required.
 
 ## License
 
-Add the license of your choice before distributing or reusing this project.
+MIT license
