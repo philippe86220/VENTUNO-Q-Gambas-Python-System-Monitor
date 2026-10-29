@@ -342,3 +342,7 @@ No MCU communication is required.
 ## License
 
 MIT license
+
+## Acknowledgements
+
+Developed and tested on Arduino VENTUNO Q, with technical assistance from ChatGPT (OpenAI).
